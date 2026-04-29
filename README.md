@@ -17,6 +17,10 @@ Research    Backend     Frontend        Polish        Retrospective
 
 ---
 
+![Project Diagram](https://raw.githubusercontent.com/SilvanSal/Prototyping_Agent_Pipeline/refs/heads/main/Diagram_Visualisation.svg)
+
+---
+
 ## Quick Start
 
 ### 1. Drop your spec
