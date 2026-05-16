@@ -176,9 +176,13 @@
       <stop offset="0" stop-color="#BAE6FD" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.55"/>
     </linearGradient>
+    <linearGradient id="gradient-17" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0" stop-color="#99F6E4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.65"/>
+    </linearGradient>
   </defs>
   <rect x="61.813" y="174.103" width="594.396" height="748.363" rx="22" stroke-width="1" style="stroke-width: 1; fill: rgb(228, 250, 253); stroke: rgba(68, 56, 248, 0.957);"/>
-  <rect x="1712.17" y="172.332" width="268.492" height="741.251" rx="22" stroke-width="1" style="stroke-width: 1; fill: rgb(188, 188, 188); stroke: rgba(32, 32, 32, 0.9);"/>
+  <rect x="1712.17" y="172.332" width="268.492" height="415.644" rx="22" stroke-width="1" style="stroke-width: 1; fill: rgb(188, 188, 188); stroke: rgba(32, 32, 32, 0.9);"/>
   <rect x="1384.48" y="172.681" width="268.492" height="743.292" rx="22" stroke-width="1" style="stroke-width: 1; stroke: rgba(32, 32, 32, 0.9); fill: rgb(219, 246, 255);"/>
   <rect x="734.918" y="172.681" width="585.604" height="746.941" rx="22" stroke-width="1" style="stroke-width: 1; fill: rgb(242, 254, 238); stroke: rgb(0, 147, 15);"/>
   <rect x="1406.96" y="266.518" width="220" height="250.277" rx="14" fill="#F0EEFF" stroke="rgba(167,139,250,0.22)" stroke-width="1" style="stroke-width: 1;"/>
@@ -199,7 +203,7 @@
   <path d="M 1770.91 520.871 C 1614.08 534.942 1763.34 371.874 1607.39 379.789" stroke="url(#gradient-13)" stroke-width="9" fill="none" stroke-linecap="round" style="stroke-width: 9;"/>
   <path d="M 1770.25 519.716 C 1631 524.992 1738 429.174 1603.82 428.295" stroke="url(#gradient-14)" stroke-width="9" fill="none" stroke-linecap="round" style="stroke-width: 9;"/>
   <path d="M 1768.87 519.112 C 1634.02 521.75 1746.16 473.058 1608.68 480.972" stroke="url(#gradient-15)" stroke-width="9" fill="none" stroke-linecap="round" style="stroke-width: 9;"/>
-  <text style="fill: rgb(120, 113, 108); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 1.89px; white-space: pre; stroke-width: 1;" x="1742.8" y="203.402">PHASE 03</text>
+  <text style="fill: rgb(3, 142, 168); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 1.89px; white-space: pre;" x="1742.8" y="203.402">PHASE 04</text>
   <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 26px; font-weight: 600; letter-spacing: -0.44px; white-space: pre; stroke-width: 1;" x="1741.8" y="229.442">Code Execution</text>
   <text style="fill: rgb(5, 178, 255); font-family: Switzer, system-ui, -apple-system, sans-serif; font-weight: 700; letter-spacing: 1.89px; white-space: pre; font-size: 16px;" x="83.602" y="207.642">PHASE 01</text>
   <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 27px; font-weight: 600; letter-spacing: -0.44px; white-space: pre;" x="83.602" y="237.642">Specification Research</text>
@@ -307,7 +311,7 @@
   <circle cx="1101.7" cy="661.563" r="6" fill="#0A7E74" style="stroke-width: 1; transform-origin: 1154.55px 537.564px;"/>
   <text x="1117.7" y="666.563" font-size="13" font-weight="500" fill="#1A1A1A" style="white-space: pre; font-family: Switzer, system-ui, -apple-system, sans-serif; stroke-width: 1; font-size: 13px; transform-origin: 1154.55px 537.564px;">Executable 5</text>
   <text style="fill: rgb(115, 214, 133); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 0.95px; white-space: pre;" x="1079.55" y="373.419">EXECUTABLE STEPS</text>
-  <rect x="30.04" y="30.588" width="1985.82" height="919.276" rx="24" fill="rgba(56,189,248,0.025)" stroke-width="1.5" stroke-dasharray="7,4" style="stroke-width: 1.5; stroke: rgba(56, 189, 248, 0.925);"/>
+  <rect x="30.04" y="30.588" width="2048.45" height="919.276" rx="24" fill="rgba(56,189,248,0.025)" stroke-width="1.5" stroke-dasharray="7,4" style="stroke-width: 1.5; stroke: rgba(56, 189, 248, 0.925);"/>
   <rect x="67.8" y="60.369" width="3.5" height="52" rx="1.75" fill="#38BDF8" font-family="Switzer, system-ui, -apple-system, sans-serif" style="stroke-width: 1;"/>
   <g transform="matrix(1.309332, 0, 0, 1.336398, 346.824463, -52.900959)" style="">
     <rect x="134.538" y="85.474" width="58" height="20" rx="10" stroke="rgba(56,189,248,0.35)" stroke-width="1" font-family="Switzer, system-ui, -apple-system, sans-serif" style="stroke-width: 1;" fill="rgba(56,189,248,0.13)"/>
@@ -464,13 +468,6 @@
   <text style="fill: rgb(176, 32, 32); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 700; letter-spacing: 1.44px; white-space: pre;" x="96.676" y="1175.39">BOOTSTRAP</text>
   <g transform="matrix(1.169244, 0, 0, 1, 13.67721, 2402.120605)"/>
   <g transform="matrix(1.169244, 0, 0, 0.999997, 150.731293, 3978.815186)"/>
-  <rect x="1729.1" y="480.467" width="225.885" height="80" rx="40" filter="url(#sh)" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill;" stroke-width="1" fill="white"/>
-  <g transform="matrix(1, 0, 0, 1, 1526.048584, -37.912968)">
-    <circle cx="389.718" cy="559.028" r="18" fill-opacity="0.13" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
-    <circle cx="389.718" cy="559.028" r="8" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
-  </g>
-  <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: -0.15px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1752.2" y="515.467">Coding Agent</text>
-  <text style="fill: rgb(170, 170, 170); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 11.5px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1752.2" y="533.467">Ingests Inputs and Executes</text>
   <rect x="1404.49" y="844.769" width="220" height="55.765" rx="14" stroke-width="1" style="stroke-width: 1; paint-order: stroke; stroke: rgb(11, 209, 245); fill: rgb(231, 255, 228);"/>
   <rect x="1414.79" y="852.793" width="195" height="40" rx="20" stroke-width="1" filter="url(#sh-sm)" style="stroke-width: 1; stroke: rgba(0, 174, 255, 0.78);" fill="white"/>
   <circle cx="1438.79" cy="872.793" r="5" style="stroke-width: 1; fill: rgb(43, 161, 249);"/>
@@ -482,5 +479,30 @@
       <circle cx="389.718" cy="559.028" r="8" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
     </g>
     <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: -0.15px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="160.159" y="1278.05">Coding Agent</text>
+  </g>
+  <rect x="1715.23" y="622.553" width="268.492" height="289.935" rx="22" stroke-width="1" style="stroke-width: 1; stroke: rgba(32, 32, 32, 0.9); fill: rgb(215, 167, 167);"/>
+  <text style="fill: rgb(12, 145, 12); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 1.89px; white-space: pre;" x="1745.85" y="653.623">PHASE 05</text>
+  <path d="M 1917.424 814.283 C 2094.191 826.321 2116.554 517.068 1915.322 521.883" stroke="url(#gradient-17)" stroke-width="11" fill="none" stroke-linecap="round" style="stroke-width: 11;"/>
+  <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 26px; font-weight: 600; letter-spacing: -0.44px; white-space: pre; stroke-width: 1;" x="1744.85" y="679.663">Pipeline <tspan x="1744.8499755859375" dy="1em">​</tspan>Improvement</text>
+  <g transform="matrix(1, 0, 0, 1, 845.222656, 732.042664)">
+    <text x="1017.15" y="115.851" font-size="9.5" font-weight="600" fill="#B08020" letter-spacing="0.1em" style="white-space: pre; font-family: Switzer, system-ui, -apple-system, sans-serif; stroke-width: 1; font-size: 9.5px;"> </text>
+  </g>
+  <rect x="1730.09" y="774.067" width="225.885" height="80" rx="40" filter="url(#sh)" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill;" stroke-width="1" fill="white"/>
+  <g transform="matrix(1, 0, 0, 1, 1527.038574, 255.686111)">
+    <circle cx="389.718" cy="559.028" r="18" fill-opacity="0.13" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
+    <circle cx="389.718" cy="559.028" r="8" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
+  </g>
+  <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: -0.15px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1753.19" y="809.067">Repo Agent</text>
+  <text style="fill: rgb(170, 170, 170); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 11.5px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1753.19" y="827.067">ingests error logs for improv</text>
+  <g transform="matrix(1, 0, 0, 1, 64.817154, -116.867302)">
+    <rect x="1661.34" y="594.388" width="225.885" height="80" rx="40" filter="url(#sh)" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill;" stroke-width="1" fill="white"/>
+    <g transform="matrix(1, 0, 0, 1, 1464.177612, 76.008095)">
+      <circle cx="389.718" cy="559.028" r="18" fill-opacity="0.13" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
+      <circle cx="389.718" cy="559.028" r="8" style="stroke-width: 1; stroke: rgba(0, 0, 0, 0.05); paint-order: fill; fill: rgb(0, 1, 2);"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -64.817001, 116.866997)">
+      <text style="fill: rgb(26, 26, 26); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: -0.15px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1752.2" y="515.467">Coding Agent</text>
+      <text style="fill: rgb(170, 170, 170); font-family: Switzer, system-ui, -apple-system, sans-serif; font-size: 11.5px; paint-order: stroke; white-space: pre; stroke-width: 1;" x="1752.2" y="533.467">Ingests Inputs and Executes</text>
+    </g>
   </g>
 </svg>
